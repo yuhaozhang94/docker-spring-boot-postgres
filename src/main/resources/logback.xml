@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>
+                %date{"HH:mm:ss,SSS"} %-5level [%logger] [%thread] %msg%n
+            </pattern>
+        </encoder>
+    </appender>
+
+    <appender name="all" class="ch.qos.logback.core.FileAppender">
+        <file>D:/Projects/xp-management/logs/wrapper.log</file>
+        <encoder class="ch.qos.logback.classic.encoder.PatternLayoutEncoder">
+            <Pattern>
+                %date{"HH:mm:ss,SSS"} %-5level [%logger] [%thread] %msg%n
+            </Pattern>
+        </encoder>
+    </appender>
+    
+    <appender name="app" class="ch.qos.logback.core.FileAppender">
+        <file>D:/Projects/xp-management/logs/app.log</file>
+        <encoder class="ch.qos.logback.classic.encoder.PatternLayoutEncoder">
+            <Pattern>
+                %date{"HH:mm:ss,SSS"} %-5level [%logger] [%thread] %msg%n
+            </Pattern>
+        </encoder>
+    </appender>
+        
+    <logger name="com.platform.cloud.xpmanagement" level="info">
+        <appender-ref ref="app" />
+    </logger>
+  
+    <root level="info">
+        <appender-ref ref="STDOUT"/>
+        <appender-ref ref="all"/>
+    </root>
+
+</configuration>

@@ -1,0 +1,197 @@
+13:56:47,789 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Starting Experience Management with version: null
+13:56:48,107 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Starting AppStarter on DESKTOP-I4IQLD5 with PID 21672 (D:\Projects\xp-management\target\classes started by Yuhao in D:\Projects\xp-management)
+13:56:48,108 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] No active profile set, falling back to default profiles: default
+13:56:48,903 INFO  [com.platform.cloud.xpmanagement.ModuleConfiguration] [main] PROPERTIES: 'name=Experience Management'
+13:56:49,106 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Started AppStarter in 1.208 seconds (JVM running for 1.599)
+13:56:49,108 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Application started.
+15:32:32,126 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Starting Experience Management with version: null
+15:32:32,428 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Starting AppStarter on DESKTOP-I4IQLD5 with PID 73924 (D:\Projects\xp-management\target\classes started by Yuhao in D:\Projects\xp-management)
+15:32:32,429 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] No active profile set, falling back to default profiles: default
+15:32:33,476 INFO  [com.platform.cloud.xpmanagement.ModuleConfiguration] [main] PROPERTIES: 'name=Experience Management'
+15:32:34,081 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Application stopped.
+16:14:10,812 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Starting Experience Management with version: null
+16:14:11,122 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Starting AppStarter on DESKTOP-I4IQLD5 with PID 25312 (D:\Projects\xp-management\target\classes started by Yuhao in D:\Projects\xp-management)
+16:14:11,123 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] No active profile set, falling back to default profiles: default
+16:14:12,219 INFO  [com.platform.cloud.xpmanagement.ModuleConfiguration] [main] PROPERTIES: 'name=Experience Management'
+16:14:12,848 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Application stopped.
+16:16:53,084 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Starting Experience Management with version: null
+16:16:53,386 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Starting AppStarter on DESKTOP-I4IQLD5 with PID 68056 (D:\Projects\xp-management\target\classes started by Yuhao in D:\Projects\xp-management)
+16:16:53,386 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] No active profile set, falling back to default profiles: default
+16:16:54,435 INFO  [com.platform.cloud.xpmanagement.ModuleConfiguration] [main] PROPERTIES: 'name=Experience Management'
+16:16:55,018 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Application stopped.
+16:17:36,707 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Starting Experience Management with version: null
+16:17:37,009 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Starting AppStarter on DESKTOP-I4IQLD5 with PID 73220 (D:\Projects\xp-management\target\classes started by Yuhao in D:\Projects\xp-management)
+16:17:37,010 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] No active profile set, falling back to default profiles: default
+16:17:38,065 INFO  [com.platform.cloud.xpmanagement.ModuleConfiguration] [main] PROPERTIES: 'name=Experience Management'
+16:17:38,661 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Started AppStarter in 1.849 seconds (JVM running for 2.316)
+16:17:38,663 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Application started.
+18:38:06,388 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Starting Experience Management with version: null
+18:38:06,724 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Starting AppStarter on DESKTOP-I4IQLD5 with PID 72272 (D:\Projects\xp-management\target\classes started by Yuhao in D:\Projects\xp-management)
+18:38:06,725 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] No active profile set, falling back to default profiles: default
+18:38:07,917 INFO  [com.platform.cloud.xpmanagement.ModuleConfiguration] [main] PROPERTIES: 'name=Experience Management'
+18:38:09,415 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Started AppStarter in 2.917 seconds (JVM running for 3.382)
+18:38:09,416 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Application started.
+20:55:47,638 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Starting Experience Management with version: null
+20:55:47,945 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Starting AppStarter on DESKTOP-I4IQLD5 with PID 41840 (D:\Projects\xp-management\target\classes started by Yuhao in D:\Projects\xp-management)
+20:55:47,946 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] No active profile set, falling back to default profiles: default
+20:55:49,030 INFO  [com.platform.cloud.xpmanagement.ModuleConfiguration] [main] PROPERTIES: 'name=Experience Management'
+20:55:49,611 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Application stopped.
+20:57:35,642 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Starting Experience Management with version: null
+20:57:35,977 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Starting AppStarter on DESKTOP-I4IQLD5 with PID 38464 (D:\Projects\xp-management\target\classes started by Yuhao in D:\Projects\xp-management)
+20:57:35,978 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] No active profile set, falling back to default profiles: default
+20:57:37,118 INFO  [com.platform.cloud.xpmanagement.ModuleConfiguration] [main] PROPERTIES: 'name=Experience Management'
+20:57:38,482 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Started AppStarter in 2.732 seconds (JVM running for 3.2)
+20:57:38,484 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Application started.
+21:08:35,192 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Starting Experience Management with version: null
+21:08:35,502 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Starting AppStarter on DESKTOP-I4IQLD5 with PID 3940 (D:\Projects\xp-management\target\classes started by Yuhao in D:\Projects\xp-management)
+21:08:35,503 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] No active profile set, falling back to default profiles: default
+21:08:36,581 INFO  [com.platform.cloud.xpmanagement.ModuleConfiguration] [main] PROPERTIES: 'name=Experience Management'
+21:08:37,172 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Application stopped.
+21:09:43,796 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Starting Experience Management with version: null
+21:09:44,108 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Starting AppStarter on DESKTOP-I4IQLD5 with PID 45436 (D:\Projects\xp-management\target\classes started by Yuhao in D:\Projects\xp-management)
+21:09:44,108 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] No active profile set, falling back to default profiles: default
+21:09:45,225 INFO  [com.platform.cloud.xpmanagement.ModuleConfiguration] [main] PROPERTIES: 'name=Experience Management'
+21:09:45,826 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Application stopped.
+21:11:10,643 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Starting Experience Management with version: null
+21:11:10,957 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Starting AppStarter on DESKTOP-I4IQLD5 with PID 18252 (D:\Projects\xp-management\target\classes started by Yuhao in D:\Projects\xp-management)
+21:11:10,958 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] No active profile set, falling back to default profiles: default
+21:11:12,050 INFO  [com.platform.cloud.xpmanagement.ModuleConfiguration] [main] PROPERTIES: 'name=Experience Management'
+21:11:12,962 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Application stopped.
+21:15:54,802 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Starting Experience Management with version: null
+21:15:55,114 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Starting AppStarter on DESKTOP-I4IQLD5 with PID 53740 (D:\Projects\xp-management\target\classes started by Yuhao in D:\Projects\xp-management)
+21:15:55,115 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] No active profile set, falling back to default profiles: default
+21:15:56,244 INFO  [com.platform.cloud.xpmanagement.ModuleConfiguration] [main] PROPERTIES: 'name=Experience Management'
+21:15:57,590 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Started AppStarter in 2.681 seconds (JVM running for 3.149)
+21:15:57,592 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Application started.
+21:19:03,307 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Starting Experience Management with version: null
+21:19:03,617 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Starting AppStarter on DESKTOP-I4IQLD5 with PID 64924 (D:\Projects\xp-management\target\classes started by Yuhao in D:\Projects\xp-management)
+21:19:03,618 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] No active profile set, falling back to default profiles: default
+21:19:04,711 INFO  [com.platform.cloud.xpmanagement.ModuleConfiguration] [main] PROPERTIES: 'name=Experience Management'
+21:19:05,310 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Application stopped.
+21:20:07,267 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Starting Experience Management with version: null
+21:20:07,577 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Starting AppStarter on DESKTOP-I4IQLD5 with PID 73176 (D:\Projects\xp-management\target\classes started by Yuhao in D:\Projects\xp-management)
+21:20:07,577 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] No active profile set, falling back to default profiles: default
+21:20:08,678 INFO  [com.platform.cloud.xpmanagement.ModuleConfiguration] [main] PROPERTIES: 'name=Experience Management'
+21:20:09,275 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Application stopped.
+21:21:00,175 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Starting Experience Management with version: null
+21:21:00,524 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Starting AppStarter on DESKTOP-I4IQLD5 with PID 55280 (D:\Projects\xp-management\target\classes started by Yuhao in D:\Projects\xp-management)
+21:21:00,525 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] No active profile set, falling back to default profiles: default
+21:21:01,985 INFO  [com.platform.cloud.xpmanagement.ModuleConfiguration] [main] PROPERTIES: 'name=Experience Management'
+21:21:03,905 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Started AppStarter in 3.607 seconds (JVM running for 4.134)
+21:21:03,907 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Application started.
+21:28:26,397 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Starting Experience Management with version: null
+21:28:26,705 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Starting AppStarter on DESKTOP-I4IQLD5 with PID 39316 (D:\Projects\xp-management\target\classes started by Yuhao in D:\Projects\xp-management)
+21:28:26,706 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] No active profile set, falling back to default profiles: default
+21:28:27,796 INFO  [com.platform.cloud.xpmanagement.ModuleConfiguration] [main] PROPERTIES: 'name=Experience Management'
+21:28:29,127 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Started AppStarter in 2.622 seconds (JVM running for 3.086)
+21:28:29,128 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Application started.
+21:39:17,166 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Starting Experience Management with version: null
+21:39:17,471 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Starting AppStarter on DESKTOP-I4IQLD5 with PID 10504 (D:\Projects\xp-management\target\classes started by Yuhao in D:\Projects\xp-management)
+21:39:17,472 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] No active profile set, falling back to default profiles: default
+21:39:18,552 INFO  [com.platform.cloud.xpmanagement.ModuleConfiguration] [main] PROPERTIES: 'name=Experience Management'
+21:39:19,921 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Started AppStarter in 2.647 seconds (JVM running for 3.104)
+21:39:19,922 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Application started.
+21:39:35,735 INFO  [com.platform.cloud.xpmanagement.controller.ExperienceServiceController] [http-nio-8081-exec-2] Updating a experience with PLAYER_ID: 12 and points: 100
+21:39:35,819 INFO  [com.platform.cloud.xpmanagement.controller.ExperienceServiceController] [http-nio-8081-exec-2] The experience does not exist in DB.
+21:39:35,819 INFO  [com.platform.cloud.xpmanagement.controller.ExperienceServiceController] [http-nio-8081-exec-2] Creating a new experience.
+21:40:20,585 INFO  [com.platform.cloud.xpmanagement.controller.ExperienceServiceController] [http-nio-8081-exec-4] Getting a experience with PLAYER_ID: 12
+21:40:20,587 INFO  [com.platform.cloud.xpmanagement.controller.ExperienceServiceController] [http-nio-8081-exec-4] The experience does not exist in DB.
+21:40:20,587 INFO  [com.platform.cloud.xpmanagement.controller.ExperienceServiceController] [http-nio-8081-exec-4] Creating a new experience.
+22:12:17,095 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Starting Experience Management with version: null
+22:12:17,408 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Starting AppStarter on DESKTOP-I4IQLD5 with PID 43640 (D:\Projects\xp-management\target\classes started by Yuhao in D:\Projects\xp-management)
+22:12:17,409 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] No active profile set, falling back to default profiles: default
+22:12:18,504 INFO  [com.platform.cloud.xpmanagement.ModuleConfiguration] [main] PROPERTIES: 'name=Experience Management'
+22:12:19,842 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Application stopped.
+22:18:29,380 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Starting Experience Management with version: null
+22:18:29,696 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Starting AppStarter on DESKTOP-I4IQLD5 with PID 70128 (D:\Projects\xp-management\target\classes started by Yuhao in D:\Projects\xp-management)
+22:18:29,697 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] No active profile set, falling back to default profiles: default
+22:18:30,805 INFO  [com.platform.cloud.xpmanagement.ModuleConfiguration] [main] PROPERTIES: 'name=Experience Management'
+22:18:32,203 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Started AppStarter in 2.712 seconds (JVM running for 3.193)
+22:18:32,204 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Application started.
+22:18:50,196 INFO  [com.platform.cloud.xpmanagement.controller.ExperienceServiceController] [http-nio-8081-exec-1] Getting a experience with PLAYER_ID: 12
+22:18:50,219 INFO  [com.platform.cloud.xpmanagement.controller.ExperienceServiceController] [http-nio-8081-exec-1] The experience exists in DB.
+22:19:16,709 INFO  [com.platform.cloud.xpmanagement.controller.ExperienceServiceController] [http-nio-8081-exec-3] Getting a experience with PLAYER_ID: 22
+22:19:16,711 INFO  [com.platform.cloud.xpmanagement.controller.ExperienceServiceController] [http-nio-8081-exec-3] The experience does not exist in DB.
+22:19:16,711 INFO  [com.platform.cloud.xpmanagement.controller.ExperienceServiceController] [http-nio-8081-exec-3] Creating a new experience.
+22:20:41,922 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Starting Experience Management with version: null
+22:20:42,233 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Starting AppStarter on DESKTOP-I4IQLD5 with PID 33712 (D:\Projects\xp-management\target\classes started by Yuhao in D:\Projects\xp-management)
+22:20:42,234 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] No active profile set, falling back to default profiles: default
+22:20:43,316 INFO  [com.platform.cloud.xpmanagement.ModuleConfiguration] [main] PROPERTIES: 'name=Experience Management'
+22:20:44,711 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Started AppStarter in 2.68 seconds (JVM running for 3.15)
+22:20:44,712 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Application started.
+22:20:50,787 INFO  [com.platform.cloud.xpmanagement.controller.ExperienceServiceController] [http-nio-8081-exec-2] Getting a experience with PLAYER_ID: 22
+22:20:50,813 INFO  [com.platform.cloud.xpmanagement.controller.ExperienceServiceController] [http-nio-8081-exec-2] The experience exists in DB.
+22:20:56,127 INFO  [com.platform.cloud.xpmanagement.controller.ExperienceServiceController] [http-nio-8081-exec-3] Updating a experience with PLAYER_ID: 22 and points: 100
+22:20:56,129 INFO  [com.platform.cloud.xpmanagement.controller.ExperienceServiceController] [http-nio-8081-exec-3] The experience exists in DB.
+22:21:12,048 INFO  [com.platform.cloud.xpmanagement.controller.ExperienceServiceController] [http-nio-8081-exec-4] Updating a experience with PLAYER_ID: 225 and points: 100
+22:21:12,050 INFO  [com.platform.cloud.xpmanagement.controller.ExperienceServiceController] [http-nio-8081-exec-4] The experience does not exist in DB.
+22:21:12,051 INFO  [com.platform.cloud.xpmanagement.controller.ExperienceServiceController] [http-nio-8081-exec-4] Creating a new experience.
+22:25:09,703 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Starting Experience Management with version: null
+22:25:10,035 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Starting AppStarter on DESKTOP-I4IQLD5 with PID 34844 (D:\Projects\xp-management\target\classes started by Yuhao in D:\Projects\xp-management)
+22:25:10,035 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] No active profile set, falling back to default profiles: default
+22:25:11,131 INFO  [com.platform.cloud.xpmanagement.ModuleConfiguration] [main] PROPERTIES: 'name=Experience Management'
+22:25:11,740 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Application stopped.
+22:26:17,974 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Starting Experience Management with version: null
+22:26:18,288 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Starting AppStarter on DESKTOP-I4IQLD5 with PID 50728 (D:\Projects\xp-management\target\classes started by Yuhao in D:\Projects\xp-management)
+22:26:18,289 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] No active profile set, falling back to default profiles: default
+22:26:19,398 INFO  [com.platform.cloud.xpmanagement.ModuleConfiguration] [main] PROPERTIES: 'name=Experience Management'
+22:26:20,786 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Started AppStarter in 2.702 seconds (JVM running for 3.175)
+22:26:20,787 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Application started.
+22:26:47,347 INFO  [com.platform.cloud.xpmanagement.controller.ExperienceServiceController] [http-nio-8081-exec-1] Updating a experience with PLAYER_ID: 111 and points: 100
+22:26:47,370 INFO  [com.platform.cloud.xpmanagement.controller.ExperienceServiceController] [http-nio-8081-exec-1] The experience does not exist in DB.
+22:26:47,370 INFO  [com.platform.cloud.xpmanagement.controller.ExperienceServiceController] [http-nio-8081-exec-1] Creating a new experience.
+22:38:40,415 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Starting Experience Management with version: null
+22:38:40,728 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Starting AppStarter on DESKTOP-I4IQLD5 with PID 64544 (D:\Projects\xp-management\target\classes started by Yuhao in D:\Projects\xp-management)
+22:38:40,729 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] No active profile set, falling back to default profiles: default
+22:38:41,818 INFO  [com.platform.cloud.xpmanagement.ModuleConfiguration] [main] PROPERTIES: 'name=Experience Management'
+22:38:43,197 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Started AppStarter in 2.671 seconds (JVM running for 3.138)
+22:38:43,198 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Application started.
+22:38:54,878 INFO  [com.platform.cloud.xpmanagement.controller.ExperienceServiceController] [http-nio-8081-exec-2] Updating a experience with PLAYER_ID: 111 and points: -500
+22:38:54,903 INFO  [com.platform.cloud.xpmanagement.controller.ExperienceServiceController] [http-nio-8081-exec-2] The experience exists in DB.
+22:38:54,946 INFO  [com.platform.cloud.xpmanagement.controller.ExperienceServiceController] [http-nio-8081-exec-2] Creating an experience log...
+22:46:18,250 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Starting Experience Management with version: null
+22:46:18,570 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Starting AppStarter on DESKTOP-I4IQLD5 with PID 69312 (D:\Projects\xp-management\target\classes started by Yuhao in D:\Projects\xp-management)
+22:46:18,570 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] No active profile set, falling back to default profiles: default
+22:46:19,685 INFO  [com.platform.cloud.xpmanagement.ModuleConfiguration] [main] PROPERTIES: 'name=Experience Management'
+22:46:21,108 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Started AppStarter in 2.749 seconds (JVM running for 3.226)
+22:46:21,109 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Application started.
+22:46:26,726 INFO  [com.platform.cloud.xpmanagement.controller.ExperienceServiceController] [http-nio-8081-exec-1] Getting a experience with PLAYER_ID: 111
+22:46:26,747 INFO  [com.platform.cloud.xpmanagement.controller.ExperienceServiceController] [http-nio-8081-exec-1] The experience exists in DB.
+22:46:44,221 INFO  [com.platform.cloud.xpmanagement.controller.ExperienceServiceController] [http-nio-8081-exec-3] Updating a experience with PLAYER_ID: 111 and points: 1000
+22:46:44,222 INFO  [com.platform.cloud.xpmanagement.controller.ExperienceServiceController] [http-nio-8081-exec-3] The experience exists in DB.
+22:46:44,253 INFO  [com.platform.cloud.xpmanagement.controller.ExperienceServiceController] [http-nio-8081-exec-3] Creating an experience log...
+22:49:55,825 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Starting Experience Management with version: null
+22:49:56,136 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Starting AppStarter on DESKTOP-I4IQLD5 with PID 3964 (D:\Projects\xp-management\target\classes started by Yuhao in D:\Projects\xp-management)
+22:49:56,136 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] No active profile set, falling back to default profiles: default
+22:49:57,221 INFO  [com.platform.cloud.xpmanagement.ModuleConfiguration] [main] PROPERTIES: 'name=Experience Management'
+22:49:58,704 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Started AppStarter in 2.771 seconds (JVM running for 3.237)
+22:49:58,705 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Application started.
+22:50:07,728 INFO  [com.platform.cloud.xpmanagement.controller.ExperienceServiceController] [http-nio-8081-exec-1] Getting a experience with PLAYER_ID: 111
+22:50:07,751 INFO  [com.platform.cloud.xpmanagement.controller.ExperienceServiceController] [http-nio-8081-exec-1] The experience exists in DB.
+22:50:16,255 INFO  [com.platform.cloud.xpmanagement.controller.ExperienceServiceController] [http-nio-8081-exec-3] Updating a experience with PLAYER_ID: 111 and points: 1000
+22:50:16,257 INFO  [com.platform.cloud.xpmanagement.controller.ExperienceServiceController] [http-nio-8081-exec-3] The experience exists in DB.
+22:50:16,285 INFO  [com.platform.cloud.xpmanagement.controller.ExperienceServiceController] [http-nio-8081-exec-3] Creating an experience log...
+22:51:22,955 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Starting Experience Management with version: null
+22:51:23,267 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Starting AppStarter on DESKTOP-I4IQLD5 with PID 30680 (D:\Projects\xp-management\target\classes started by Yuhao in D:\Projects\xp-management)
+22:51:23,267 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] No active profile set, falling back to default profiles: default
+22:51:24,368 INFO  [com.platform.cloud.xpmanagement.ModuleConfiguration] [main] PROPERTIES: 'name=Experience Management'
+22:51:25,842 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Started AppStarter in 2.776 seconds (JVM running for 3.247)
+22:51:25,843 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Application started.
+22:51:31,015 INFO  [com.platform.cloud.xpmanagement.controller.ExperienceServiceController] [http-nio-8081-exec-2] Updating a experience with PLAYER_ID: 111 and points: 1000
+22:51:31,038 INFO  [com.platform.cloud.xpmanagement.controller.ExperienceServiceController] [http-nio-8081-exec-2] The experience exists in DB.
+22:51:31,075 INFO  [com.platform.cloud.xpmanagement.controller.ExperienceServiceController] [http-nio-8081-exec-2] Creating an experience log...
+12:59:23,127 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Starting Experience Management with version: null
+12:59:23,477 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Starting AppStarter on DESKTOP-I4IQLD5 with PID 20028 (D:\Projects\xp-management\target\classes started by Yuhao in D:\Projects\xp-management)
+12:59:23,478 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] No active profile set, falling back to default profiles: default
+13:00:53,897 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Starting Experience Management with version: null
+13:00:54,230 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Starting AppStarter on DESKTOP-I4IQLD5 with PID 2948 (D:\Projects\xp-management\target\classes started by Yuhao in D:\Projects\xp-management)
+13:00:54,232 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] No active profile set, falling back to default profiles: default
+13:00:55,722 INFO  [com.platform.cloud.xpmanagement.ModuleConfiguration] [main] PROPERTIES: 'name=Experience Management'
+13:00:57,233 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Started AppStarter in 3.216 seconds (JVM running for 3.641)
+13:00:57,234 INFO  [com.platform.cloud.xpmanagement.AppStarter] [main] Application started.
+13:01:24,385 INFO  [com.platform.cloud.xpmanagement.controller.ExperienceServiceController] [http-nio-8081-exec-2] Getting a experience with PLAYER_ID: 111
+13:01:24,411 INFO  [com.platform.cloud.xpmanagement.controller.ExperienceServiceController] [http-nio-8081-exec-2] The experience does not exist in DB.
+13:01:24,411 INFO  [com.platform.cloud.xpmanagement.controller.ExperienceServiceController] [http-nio-8081-exec-2] Creating a new experience.
+13:01:32,087 INFO  [com.platform.cloud.xpmanagement.controller.ExperienceServiceController] [http-nio-8081-exec-3] Updating a experience with PLAYER_ID: 111 and points: 1000
+13:01:32,088 INFO  [com.platform.cloud.xpmanagement.controller.ExperienceServiceController] [http-nio-8081-exec-3] The experience exists in DB.
+13:01:32,103 INFO  [com.platform.cloud.xpmanagement.controller.ExperienceServiceController] [http-nio-8081-exec-3] Creating an experience log...
