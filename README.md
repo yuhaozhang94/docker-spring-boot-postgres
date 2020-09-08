@@ -1,4 +1,4 @@
-# docker-spring-boot-postgresDB
+# docker-spring-boot-postgres
  A experience management Spring Boot application with a PostgreSQL database to run inside a Docker container.
 
 # Setup and Test Instructions
